@@ -1,7 +1,6 @@
 # segmentation
 
 ### 1주 1구현을 목표로 달리겠습니다
-### 시험기간 제외
 
 ## Plan
 ## 2nd Study Paper List
