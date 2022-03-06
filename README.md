@@ -3,7 +3,7 @@
 ### 1주 1구현을 목표로 달리겠습니다
 
 ## Plan
-Date | Paper | Base model | Links
+Date | Paper | Base | Links
 :---: | :---: | :---: | :---:
 3/13 | Fully Convolutional Networks for Semantic Segmentation, Jonathan Long et al, 2015. | CNN | [[paper]] [[review]] [[code]] |
 3/20 | UNet++: A Nested U-Net Architecture for Medical Image Segmentation, Zongwei Zhou et al, 2018. | CNN | [[paper]] [[review]] [[code]] |
