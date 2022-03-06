@@ -3,8 +3,6 @@
 ### 1주 1구현을 목표로 달리겠습니다
 
 ## Plan
-## 2nd Study Paper List
-
 Date | Paper | Base model | Links
 :---: | :---: | :---: | :---:
 3/13 | Fully Convolutional Networks for Semantic Segmentation, Jonathan Long et al, 2015. | CNN | [[paper]] [[review]] [[code]] |
