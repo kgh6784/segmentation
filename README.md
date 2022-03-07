@@ -5,7 +5,7 @@
 ## Plan
 Date | Paper | Base | Links
 :---: | :---: | :---: | :---:
-3/13 | Fully Convolutional Networks for Semantic Segmentation, Jonathan Long et al, 2015. | CNN | [[paper]] [[review]] [[code]] |
+3/13 | Fully Convolutional Networks for Semantic Segmentation, Jonathan Long et al, 2015. | CNN | [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) [[review]] [[code]] |
 3/20 | UNet++: A Nested U-Net Architecture for Medical Image Segmentation, Zongwei Zhou et al, 2018. | CNN | [[paper]] [[review]] [[code]] |
 3/27 | Deeplab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs, Liang-Chieh Chen et al, 2016. | CNN | [[paper]] [[review]] [[code]] |
 4/3 | Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation, Liang-Chieh Chen et al, 2018. | CNN | [[paper]] [[review]] [[code]] |
